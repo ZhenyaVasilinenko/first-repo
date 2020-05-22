@@ -1,14 +1,3 @@
-
-// const clc = require('cli-color');
-
-// function color(name){
-//     if (name === 'green') {
-//         console.log(clc.green(name));
-//     }
-//     else{
-//         console.log(clc.red());
-//     }
-// }
 const readline = require('readline');
 const myPetModule = require('./module');
 

@@ -1,17 +1,3 @@
-// const readline = require('readline');
-
-// const whatColor = readline.createInterface({
-//   input: process.stdin,
-//   output: process.stdout
-// });
-
-// whatColor.question('What color do you choose? ', function(answer) {
-// //   console.log(`Thank you for your choose: ${answer}`);
-//   whatColor.close();
-//     return answer;
-// });
-
-// module.exports = whatColor;
 class Pet {
     constructor(name) {
       this.name = name;
